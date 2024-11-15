@@ -15,7 +15,7 @@ namespace Enigma
             "АБВГДЕЄЁЖЗІЇИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ" +
             "абвгдеєёжзіїийклмнопрстуфхцчшщъыьэюя" + 
             "0123456789" + 
-            " .,!?@#$%^&*()-_=+[]{}|;:'\"<>/\\`~";
+            " .,!?@#$%^&*()-_=+[]{}|;:'<>/`~";
 
         public static string Encrypt(string plaintext, string key)
         {
@@ -24,18 +24,18 @@ namespace Enigma
 
             for (int i = 0; i < plaintext.Length; i++)
             {
-                char p = plaintext[i];
-                char k = key[i];
+                char p = plaintext[i]; // AB
+                char k = key[i]; // KE
 
                 // Перевіряємо, чи входять символи у підтримуваний набір
                 if (SupportedChars.Contains(p) && SupportedChars.Contains(k))
                 {
-                    int pIndex = SupportedChars.IndexOf(p);
-                    int kIndex = SupportedChars.IndexOf(k);
+                    int pIndex = SupportedChars.IndexOf(p); // 2
+                    int kIndex = SupportedChars.IndexOf(k); // 5
 
                     // Виконуємо шифрування за формулою (pIndex + kIndex) % SupportedChars.Length
                     int cIndex = (pIndex + kIndex) % SupportedChars.Length;
-                    ciphertext.Append(SupportedChars[cIndex]);
+                    ciphertext.Append(SupportedChars[cIndex]); 
                 }
                 else
                 {

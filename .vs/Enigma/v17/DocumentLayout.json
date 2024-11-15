@@ -1,18 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433i\u0457 \u0437\u0430\u0445\u0438\u0441\u0442\u0443 \u0456\u043D\u0444\u043E\u0440\u043C\u0430\u0446i\u0457\\lab3\\Enigma\\",
+  "WorkspaceRootPath": "C:\\!Dizox\\Git\\Repositories\\Enigma\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FED8AF1-75EC-4A12-95A9-50DC938940CF}|Enigma\\Enigma.csproj|c:\\!dizox\\\u043B\u0430\u0431\u0438\\\u0447\u043D\u0443\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433i\u0457 \u0437\u0430\u0445\u0438\u0441\u0442\u0443 \u0456\u043D\u0444\u043E\u0440\u043C\u0430\u0446i\u0457\\lab3\\enigma\\enigma\\autokeycipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FED8AF1-75EC-4A12-95A9-50DC938940CF}|Enigma\\Enigma.csproj|solutionrelative:enigma\\autokeycipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FED8AF1-75EC-4A12-95A9-50DC938940CF}|Enigma\\Enigma.csproj|c:\\!dizox\\\u043B\u0430\u0431\u0438\\\u0447\u043D\u0443\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433i\u0457 \u0437\u0430\u0445\u0438\u0441\u0442\u0443 \u0456\u043D\u0444\u043E\u0440\u043C\u0430\u0446i\u0457\\lab3\\enigma\\enigma\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FED8AF1-75EC-4A12-95A9-50DC938940CF}|Enigma\\Enigma.csproj|c:\\!dizox\\git\\repositories\\enigma\\enigma\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FED8AF1-75EC-4A12-95A9-50DC938940CF}|Enigma\\Enigma.csproj|solutionrelative:enigma\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FED8AF1-75EC-4A12-95A9-50DC938940CF}|Enigma\\Enigma.csproj|c:\\!dizox\\\u043B\u0430\u0431\u0438\\\u0447\u043D\u0443\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433i\u0457 \u0437\u0430\u0445\u0438\u0441\u0442\u0443 \u0456\u043D\u0444\u043E\u0440\u043C\u0430\u0446i\u0457\\lab3\\enigma\\enigma\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{4FED8AF1-75EC-4A12-95A9-50DC938940CF}|Enigma\\Enigma.csproj|c:\\!dizox\\git\\repositories\\enigma\\enigma\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4FED8AF1-75EC-4A12-95A9-50DC938940CF}|Enigma\\Enigma.csproj|solutionrelative:enigma\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FED8AF1-75EC-4A12-95A9-50DC938940CF}|Enigma\\Enigma.csproj|c:\\!dizox\\git\\repositories\\enigma\\enigma\\autokeycipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FED8AF1-75EC-4A12-95A9-50DC938940CF}|Enigma\\Enigma.csproj|solutionrelative:enigma\\autokeycipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FED8AF1-75EC-4A12-95A9-50DC938940CF}|Enigma\\Enigma.csproj|c:\\!dizox\\git\\repositories\\enigma\\enigma\\check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FED8AF1-75EC-4A12-95A9-50DC938940CF}|Enigma\\Enigma.csproj|solutionrelative:enigma\\check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FED8AF1-75EC-4A12-95A9-50DC938940CF}|Enigma\\Enigma.csproj|c:\\!dizox\\git\\repositories\\enigma\\enigma\\components.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FED8AF1-75EC-4A12-95A9-50DC938940CF}|Enigma\\Enigma.csproj|solutionrelative:enigma\\components.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FED8AF1-75EC-4A12-95A9-50DC938940CF}|Enigma\\Enigma.csproj|c:\\!dizox\\git\\repositories\\enigma\\enigma\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FED8AF1-75EC-4A12-95A9-50DC938940CF}|Enigma\\Enigma.csproj|solutionrelative:enigma\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,7 +33,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 174,
+          "DockedWidth": 200,
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -31,39 +43,78 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AutokeyCipher.cs",
-              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433i\u0457 \u0437\u0430\u0445\u0438\u0441\u0442\u0443 \u0456\u043D\u0444\u043E\u0440\u043C\u0430\u0446i\u0457\\lab3\\Enigma\\Enigma\\AutokeyCipher.cs",
-              "RelativeDocumentMoniker": "Enigma\\AutokeyCipher.cs",
-              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433i\u0457 \u0437\u0430\u0445\u0438\u0441\u0442\u0443 \u0456\u043D\u0444\u043E\u0440\u043C\u0430\u0446i\u0457\\lab3\\Enigma\\Enigma\\AutokeyCipher.cs",
-              "RelativeToolTip": "Enigma\\AutokeyCipher.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAEEAAAAvAAAA",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\!Dizox\\Git\\Repositories\\Enigma\\Enigma\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Enigma\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\!Dizox\\Git\\Repositories\\Enigma\\Enigma\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Enigma\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T21:30:13.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433i\u0457 \u0437\u0430\u0445\u0438\u0441\u0442\u0443 \u0456\u043D\u0444\u043E\u0440\u043C\u0430\u0446i\u0457\\lab3\\Enigma\\Enigma\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Enigma\\MainWindow.xaml",
-              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433i\u0457 \u0437\u0430\u0445\u0438\u0441\u0442\u0443 \u0456\u043D\u0444\u043E\u0440\u043C\u0430\u0446i\u0457\\lab3\\Enigma\\Enigma\\MainWindow.xaml",
-              "RelativeToolTip": "Enigma\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-17T20:35:19.127Z",
+              "WhenOpened": "2024-11-15T02:27:33.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433i\u0457 \u0437\u0430\u0445\u0438\u0441\u0442\u0443 \u0456\u043D\u0444\u043E\u0440\u043C\u0430\u0446i\u0457\\lab3\\Enigma\\Enigma\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Enigma\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433i\u0457 \u0437\u0430\u0445\u0438\u0441\u0442\u0443 \u0456\u043D\u0444\u043E\u0440\u043C\u0430\u0446i\u0457\\lab3\\Enigma\\Enigma\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Enigma\\MainWindow.xaml.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAiwCQAAABTAAAA",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\!Dizox\\Git\\Repositories\\Enigma\\Enigma\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Enigma\\MainWindow.xaml",
+              "ToolTip": "C:\\!Dizox\\Git\\Repositories\\Enigma\\Enigma\\MainWindow.xaml",
+              "RelativeToolTip": "Enigma\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T02:27:30.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutokeyCipher.cs",
+              "DocumentMoniker": "C:\\!Dizox\\Git\\Repositories\\Enigma\\Enigma\\AutokeyCipher.cs",
+              "RelativeDocumentMoniker": "Enigma\\AutokeyCipher.cs",
+              "ToolTip": "C:\\!Dizox\\Git\\Repositories\\Enigma\\Enigma\\AutokeyCipher.cs",
+              "RelativeToolTip": "Enigma\\AutokeyCipher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T20:35:17.948Z",
+              "WhenOpened": "2024-11-15T02:27:26.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Check.cs",
+              "DocumentMoniker": "C:\\!Dizox\\Git\\Repositories\\Enigma\\Enigma\\Check.cs",
+              "RelativeDocumentMoniker": "Enigma\\Check.cs",
+              "ToolTip": "C:\\!Dizox\\Git\\Repositories\\Enigma\\Enigma\\Check.cs",
+              "RelativeToolTip": "Enigma\\Check.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:27:20.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Components.cs",
+              "DocumentMoniker": "C:\\!Dizox\\Git\\Repositories\\Enigma\\Enigma\\Components.cs",
+              "RelativeDocumentMoniker": "Enigma\\Components.cs",
+              "ToolTip": "C:\\!Dizox\\Git\\Repositories\\Enigma\\Enigma\\Components.cs",
+              "RelativeToolTip": "Enigma\\Components.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:27:19.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "C:\\!Dizox\\Git\\Repositories\\Enigma\\Enigma\\Computer.cs",
+              "RelativeDocumentMoniker": "Enigma\\Computer.cs",
+              "ToolTip": "C:\\!Dizox\\Git\\Repositories\\Enigma\\Enigma\\Computer.cs",
+              "RelativeToolTip": "Enigma\\Computer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:27:18.205Z",
               "EditorCaption": ""
             }
           ]

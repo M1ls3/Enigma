@@ -13,3 +13,24 @@ C:\!Dizox\Лаби\ЧНУ\2024 рік 1 семестр 4 курсу\Технол
 C:\!Dizox\Лаби\ЧНУ\2024 рік 1 семестр 4 курсу\Технологiї захисту інформацiї\lab3\Enigma\Enigma\obj\Debug\Enigma.csproj.CoreCompileInputs.cache
 C:\!Dizox\Лаби\ЧНУ\2024 рік 1 семестр 4 курсу\Технологiї захисту інформацiї\lab3\Enigma\Enigma\obj\Debug\Enigma.exe
 C:\!Dizox\Лаби\ЧНУ\2024 рік 1 семестр 4 курсу\Технологiї захисту інформацiї\lab3\Enigma\Enigma\obj\Debug\Enigma.pdb
+C:\!Dizox\Лаби\ЧНУ\2024 рік 1 семестр 4 курсу\Технологiї захисту інформацiї\lab3\Enigma\Enigma\bin\Debug\System.Data.SQLite.dll
+C:\!Dizox\Лаби\ЧНУ\2024 рік 1 семестр 4 курсу\Технологiї захисту інформацiї\lab3\Enigma\Enigma\bin\Debug\System.CodeDom.dll
+C:\!Dizox\Лаби\ЧНУ\2024 рік 1 семестр 4 курсу\Технологiї захисту інформацiї\lab3\Enigma\Enigma\obj\Debug\Enigma.csproj.Up2Date
+C:\!Dizox\Git\Repositories\Enigma\Enigma\bin\Debug\Enigma.exe.config
+C:\!Dizox\Git\Repositories\Enigma\Enigma\bin\Debug\Enigma.exe
+C:\!Dizox\Git\Repositories\Enigma\Enigma\bin\Debug\Enigma.pdb
+C:\!Dizox\Git\Repositories\Enigma\Enigma\bin\Debug\System.Data.SQLite.dll
+C:\!Dizox\Git\Repositories\Enigma\Enigma\bin\Debug\System.CodeDom.dll
+C:\!Dizox\Git\Repositories\Enigma\Enigma\obj\Debug\Enigma.csproj.AssemblyReference.cache
+C:\!Dizox\Git\Repositories\Enigma\Enigma\obj\Debug\MainWindow.g.cs
+C:\!Dizox\Git\Repositories\Enigma\Enigma\obj\Debug\App.g.cs
+C:\!Dizox\Git\Repositories\Enigma\Enigma\obj\Debug\Enigma_MarkupCompile.cache
+C:\!Dizox\Git\Repositories\Enigma\Enigma\obj\Debug\Enigma_MarkupCompile.lref
+C:\!Dizox\Git\Repositories\Enigma\Enigma\obj\Debug\MainWindow.baml
+C:\!Dizox\Git\Repositories\Enigma\Enigma\obj\Debug\Enigma.g.resources
+C:\!Dizox\Git\Repositories\Enigma\Enigma\obj\Debug\Enigma.Properties.Resources.resources
+C:\!Dizox\Git\Repositories\Enigma\Enigma\obj\Debug\Enigma.csproj.GenerateResource.cache
+C:\!Dizox\Git\Repositories\Enigma\Enigma\obj\Debug\Enigma.csproj.CoreCompileInputs.cache
+C:\!Dizox\Git\Repositories\Enigma\Enigma\obj\Debug\Enigma.csproj.Up2Date
+C:\!Dizox\Git\Repositories\Enigma\Enigma\obj\Debug\Enigma.exe
+C:\!Dizox\Git\Repositories\Enigma\Enigma\obj\Debug\Enigma.pdb

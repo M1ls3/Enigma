@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Management;
 
 namespace Enigma
 {
@@ -21,10 +22,17 @@ namespace Enigma
     public partial class MainWindow : Window
     {
         string key = "KEY";
+        Computer computer = Components.GetComponents1();
 
         public MainWindow()
         {
             InitializeComponent();
+            if (!Check.SecurityCheck(computer))
+            {
+                MessageBox.Show($"Access denied, maximum number of copies reached", $"Access denied",
+                    MessageBoxButton.OK, MessageBoxImage.Exclamation);
+                Environment.Exit(0);
+            }
         }
 
         private void buttonEncrypt_Click(object sender, RoutedEventArgs e)
