@@ -15,38 +15,24 @@ namespace Enigma
     {
         public static bool SecurityCheck(Computer computer)
         {
-            try
-            {
+            try {
                 var conn = CreateConnection();
-
                 if (conn == null)
-                {
                     return false;
-                }
-
                 //DropTable(conn);
-
                 CreateTable(conn);
-
                 var existingComputer = GetComputer(conn, computer);
-                if (existingComputer != null)
-                {
+                if (existingComputer != null) 
                     return true;
-                }
-
                 int count = ComputerAmmount(conn);
-                if (count < 2)
-                {
+                if (count < 2) {
                     InsertData(conn, computer);
                     return true;
                 }
                 else
-                {
                     return false;
-                }
             }
-            catch (Exception ex)
-            {
+            catch (Exception ex) {
                 MessageBox.Show($"SecurityCheck error: {ex.Message}");
                 return false;
             }
@@ -70,23 +56,18 @@ namespace Enigma
 
         private static void CreateTable(SQLiteConnection conn)
         {
-            try
-            {
+            try {
                 SQLiteCommand sqlite_cmd;
-
                 string Createsql = $"CREATE TABLE IF NOT EXISTS computer (\r\n " +
                     $"id INTEGER PRIMARY KEY,\r\n " +
                     $"characteristic1  TEXT,\r\n " +
                     $"characteristic2  TEXT,\r\n" +
                     $"characteristic3  TEXT\r\n);";
-
                 sqlite_cmd = conn.CreateCommand();
-
                 sqlite_cmd.CommandText = Createsql;
                 sqlite_cmd.ExecuteNonQuery();
             }
-            catch (Exception ex)
-            {
+            catch (Exception ex) {
                 MessageBox.Show("CreateTable error: " + ex.ToString());
             }
         }

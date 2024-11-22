@@ -22,7 +22,7 @@ namespace Enigma
     public partial class MainWindow : Window
     {
         string key = "KEY";
-        Computer computer = Components.GetComponents1();
+        Computer computer = Components.GetComponents3();
 
         public MainWindow()
         {
